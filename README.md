@@ -3,12 +3,13 @@
 About me
 
 - I am 36 year old programmer from Balashikha, Moscow region :computer:.
-- I learn Java at [Job4j](https://job4j.ru/)
-- I learned Applied Mathematics and Computer Science in [TULSU](https://tulsu.ru/en/about) (Tula State University)
+- I learn Java at [Job4j](https://job4j.ru/) :coffee:.
+- I learned Applied Mathematics and Computer Science in [TULSU](https://tulsu.ru/en/about) (Tula State University) :office:.
 
 ** **
 ### Core technologies:
-![Java](https://img.shields.io/badge/Java->%3D8-orange)
+![Java](https://img.shields.io/badge/Java->%3D8-orange)![Maven](https://img.shields.io/badge/Maven-3-red
+)
 
 
 <!--
