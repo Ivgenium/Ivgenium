@@ -8,7 +8,7 @@ About me
 
 ** **
 ### Core technologies:
-
+![Java](https://img.shields.io/badge/Java->%3D8-orange)
 
 
 <!--
